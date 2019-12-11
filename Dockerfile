@@ -1,4 +1,4 @@
-FROM atlassian/bitbucket-server:6.7.2
+FROM atlassian/bitbucket-server:6.9.0
 
 USER root
 
